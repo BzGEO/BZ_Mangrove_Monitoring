@@ -5,6 +5,9 @@
 This is a GitHub repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
 
 ## Timeline
+
+The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
+
 * **~1995:**  
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998)
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove shapefiles that he shared.
@@ -23,7 +26,7 @@ This is a GitHub repository of resources related to mangrove monitoring in Beliz
 * **2026:** 
 
 ## Earth observation data resources
-* **Aerial photography:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. The aerial photography also 
+* **Aerial photography:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. Repeat acquisitions of aerial photography also formed the basis of the development of at least six series of 1:50,000 scale topographic maps of Belize's territory
 * **Satellite imagery:**
   * **Multispectral:**
     * **Landsat (1972-present):**
