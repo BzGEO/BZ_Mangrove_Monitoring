@@ -8,7 +8,7 @@ This is a GitHub repository of resources related to mangrove monitoring in Beliz
 The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize.
 
 ## Species of mangroves
-As documented in Murray et al. (2003), there are 3 species of mangroves in Belize:
+As documented in Murray et al. (2003), there are three species of mangroves in Belize:
 * Black mangrove (*Avicennia germinans*),
 * Red mangrove (*Rhizophora mangle*), and
 * White mangrove (*Laguncularia racemosa*).
@@ -38,7 +38,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
   * Cherrington & Griffin (2020) technical report on the 
   * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report
   * CATHALAC (2020) technical report on land cover in Belize, which includes 
-* **2021:** Publication of Cissell et al. (2021), which looked at mangrove cover across the broader Mesoamerican Reef ecoregion .
+* **2021:** Publication of Cissell et al. (2021), which re-mapped mangrove cover across Belize, using Sentinel-2 imagery.
 * **2024:** 
 * **2025:** 
 * **2026:** 
@@ -83,6 +83,12 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 * Cherrington, E.A., Griffin, R.E. 2020. Spatial Assessment of Total Mangrove and Littoral Forest Cover for Belize, 2014-2019. Technical report. Coastal Zone Management Authority & Institute (CZMAI) / Marine Conservation & Climate Adaptation Project (MCCAP). Belize City, Belize. 12 pp.
 
 * Cherrington, E.A., Griffin, R.E., Anderson, E.R., Hernandez Sandoval, B.E., Flores Cordova, A.I., Muench, R.E., Markert, K.N., Adams, E.C., Limaye, A.S., Irwin, D.E. 2020. Use of public Earth observation data for tracking progress in sustainable management of coastal forest ecosystems in Belize, Central America. Remote Sensing of Environment, 245: 111798. https://doi.org/10.1016/j.rse.2020.111798
+
+* Cherrington, E.A. 2023. Bibliography - Remote sensing of Forests in Belize. Dataset. http://bit.ly/bz_rs_biblio. Accessed 05/2026.
+
+* Cherrington, E. 2026. Hyperspectral Data Toolkit (Version 1.0.0.6) Computer software. https://doi.org/10.5281/zenodo.18382541
+
+* Cherrington, E. 2026. PACE OCI data Toolkit (Version 1.0.0.6) Computer software. https://doi.org/10.5281/zenodo.18382540
 
 * Cho-Ricketts, L., Cherrington, E.A. 2011. Validation of the 2010 Belize Mangrove Map. Technical report to the World Wildlife Fund. University of Belize, Water Center for the Humid Tropics of Latin America and the Caribbean. Belmopan, Belize. 13 pp. https://www.researchgate.net/publication/283422391_Validation_of_the_2010_Belize_Mangrove_Cover_Map
 
