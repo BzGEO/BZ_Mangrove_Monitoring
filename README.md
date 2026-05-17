@@ -10,7 +10,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 
 * **~1995:**  
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998)
-* **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove shapefiles that he shared.
+* **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared.
 * **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." A subsequent article was never published by the team.
 * **2007:** 
 * **2009:** 
