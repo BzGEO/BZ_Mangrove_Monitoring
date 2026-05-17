@@ -8,6 +8,7 @@ This is a GitHub repository of resources related to mangrove monitoring in Beliz
 
 The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
 
+* **1994:** Publication of Fairweather & Gray (1994), a report and accompanying map of Belize's land cover, which included a mangrove class in its legend. The limitations of the data were later explored in the subsequent Zisman (1998) dissertation.
 * **~1995:**  
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998)
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared.
@@ -26,7 +27,12 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 * **2026:** 
 
 ## Earth observation data resources
-* **Aerial photography:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. Repeat acquisitions of aerial photography also formed the basis of the development of at least six series of 1:50,000 scale topographic maps of Belize's territory
+* **Aerial photography:**
+  * **Ortho-photos:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. Repeat acquisitions of aerial photography also formed the basis of the development of at least six series of 1:50,000 scale topographic maps of Belize's territory (divided into 44 individual sheets). The last known set of E755 topographic sheets of Belize were released in 1995, with the notation of being "produced under the direction of the Director General of the Military Survey, Ministry of Defense, United Kingdom." The maps' legend also indicates that, although published in 1995, the source aerial photography was from 1988, with "field completion" in 1990. The cost of acquiring aerial photography of Belize - and processing that imagery to ortho-photos - is not known.
+  * **UAV (drone) imagery:** The last 10-15 years has also seen a surge in the collection of drone imagery of Belize, although it is doubtful that the drone imagery are processed to orthorectified imagery. Major agencies from the Government of Belize with drone capabilities include:
+    * Belize Coast Guard
+    * Coastal Zone Management Authority & Institute (CZMAI), and
+    * Forest Department.
 * **Satellite imagery:**
   * **Multispectral:**
     * **Landsat (1972-present):**
