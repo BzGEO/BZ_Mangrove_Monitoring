@@ -62,7 +62,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * Forest Department.
 * **Satellite imagery:**
   * **Multispectral:**
-    * **Landsat (1972-present):**
+    * **Landsat (1972-present):** 
     * **PlanetScope (2015-present):**
   * **Hyperspectral:**
     * **EO-1 Hyperion (2001-2017):**
@@ -75,7 +75,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **NISAR (2025-present):** 
     * **Sentinel-1 (2014-present):** 
   * **Thermal infrared:**
-    * **Landsat (1984-present):** 
+    * **Landsat (1984-present):** While Landsat-4 (L4) launched in 1982, there are relatively few available L4 scenes available for Belize (see: https://code.earthengine.google.com/scriptPath=users%2Fservirbz%2Fbz_mrv%3A00_misc%2F_count_images%2F01_count_images_bz_belize_city).
     * **MODIS (2000-present):** 
     * **VIIRS (2012-present):**
 
