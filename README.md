@@ -7,7 +7,7 @@ This is a GitHub repository of resources related to mangrove monitoring in Beliz
 ## Objective
 The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize.
 
-# Context
+## Context
 To understand the monitoring of mangrove ecosystems in Belize, and particularly the limitations related to such monitoring, it is useful to understand which species of mangrove are found in Belize, and to understand the structural communities they form. More specific to the issue of the limitations related to monitoring mangroves, it is useful to understand the various Earth observation data resources that are available for such monitoring.
 
 ## Species of mangroves
@@ -22,33 +22,40 @@ In Belize, there is also one noted mangrove associate:
 These are the same species found in other parts of the wider Caribbean region (Rull, 2023), i.e., there are no mangrove species found in other parts of the Caribbean that cannot be found in Belize.
 
 ## Types of mangroves: Structural classification
+As described by Zisman (1998) and Murray et al. (2003), in terms of actually mapping mangrove communities - mixes of multiple species - those communities can largely be described regarding structural classes, as follows:
 
+* **Mangrove savanna:** Zisman (1999) defines this as follows: "This community occurs mostly in the northern half of Belize. It consists of salt tolerant herbaceous plants with scattered stunted mangroves and buttonwood, a common mangrove associate."
+* **Dwarf mangrove** stands: Zisman (1999) defines this as follows: "This is the most widespread type of mangrove, encompassing scrubs less than 3m-4m. These include communities where mangrove is continuous to where it grows at relatively low density."
+* **Medium mangrove** stands: Zisman (1999) defines this as follows: "These consist of mangrove thickets and shorter mangrove forests. Their height range is from 3m-4m to 7m-8m high."
+* **Tall mangrove** stands: Zisman (1999) defines this as follows: "These areas form mangrove forests and are over 7m-8m high."
 
 ## Timeline
 The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
 
-* **1994:** Publication of Fairweather & Gray (1994), a report and accompanying map of Belize's land cover, which included a mangrove class in its legend. The limitations of the data were later explored in the subsequent Zisman (1998) dissertation.
-* **~1995:**  
-* **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998)
+* **1990:** Publication of Gray et al. (1990)'s "Mapping of the mangroves of Belize" technical report.
+* **1993:** Publication of Zisman's "Mangroves in Belize: Their Characteristics, Use, and Conservation" technical report, funded as a consultancy under the Forest Planning and Management Project (FPMP) with the Forest Department.
+*  **1994:** Publication of Fairweather & Gray (1994), a report and accompanying map of Belize's land cover, which included a mangrove class in its legend. The limitations of the data were later explored in the subsequent Zisman (1998) dissertation.
+* **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998).
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared. Zisman's work presented mangrove cover to 1992.
 * **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
 * **2007:** 
 * **2009:** 
 * **2010:** Publication of the Cherrington et al. (2010) report, which updated Zisman (1998)'s work using Landsat data for 1980, 1989, 1994, 2000, 2004, 2010.
-* **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize.
+* **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize. Gregorio Canto's master's thesis, "A study of mangrove deforestation in Belize from Haulover Bridge to the Sibun River" was also published in 2011.
 * **2018:** 
 * **2020:** Publication of multiple reports:
-  * Cherrington & Griffin (2020) technical report on the 
+  * Cherrington & Griffin (2020) technical report on mangrove change in Belize, funded in the context of Belize's Marine Climate Change Adaptation Project (MCCAP), implemented by the Coastal Zone Management Authority & Institute (CZMAI).
   * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report
   * CATHALAC (2020) technical report on land cover in Belize, which includes 
 * **2021:** Publication of Cissell et al. (2021), which re-mapped mangrove cover across Belize, using Sentinel-2 imagery.
-* **2024:** In late March 2024, the Belize Forest Department hosted researchers from the University of Alabama in Huntsville (UAH) for a short training on the use of remote sensing for mangrove monitoring and some limited field work.
-* **2025:** In September 2025,
+* **2023:** While not focused exclusively on mangroves, in the context of the NASA / USAID SERVIR program, researchers from the University of Alabama in Huntsville (UAH) - namely Emil Cherrington, Betzy Hernandez, Christine Evans and Lauren Carey - delivered a five-day training workshop in Oct. 2023 on forest monitoring using the Google Earth Engine (GEE) platform. One output of that training was the following GEE code repository, which continues to be updated: https://bit.ly/bz_repo.
+* **2024:** In late March 2024, the Belize Forest Department hosted researchers from the University of Alabama in Huntsville (Emil Cherrington and Christine Evans) for a short training on the use of remote sensing for mangrove monitoring and some limited field work.
+* **2025:** In September 2025, Emil Cherrington & Rob Griffin of UAH presented their preliminary findings of mangrove change in Belize at the National Forest Monitoring System Symposium in Belize City.
 * **2026:** 
 
 ## Earth observation data resources
 * **Aerial photography:**
-  * **Ortho-photos:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. Repeat acquisitions of aerial photography also formed the basis of the development of at least six series of 1:50,000 scale topographic maps of Belize's territory (divided into 44 individual sheets). The last known set of E755 topographic sheets of Belize were released in 1995, with the notation of being "produced under the direction of the Director General of the Military Survey, Ministry of Defense, United Kingdom." The maps' legend also indicates that, although published in 1995, the source aerial photography was from 1988, with "field completion" in 1990. The cost of acquiring aerial photography of Belize - and processing that imagery to [ortho-photos](https://www.esri.com/about/newsroom/insider/what-is-orthorectified-imagery) - is not known.
+  * **Ortho-photos:** Since colonial times (i.e., circa the mid-20th Century), the United Kingdom's Royal Air Force and the Ordnance Survey imaged Belize's territory multiple times, at a high level of spatial detail. The aquisition of [presumably] the first set of aerial photographs led to the "Land in British Honduras" report (White et al., 1959) which documented the territory's natural resources and produced a 1:250,000 scale map. Repeat acquisitions of aerial photography also formed the basis of the development of at least six series of 1:50,000 scale topographic maps of Belize's territory (divided into 44 individual sheets). The last known set of E755 topographic sheets of Belize were released in 1995, with the notation of being "produced under the direction of the Director General of the Military Survey, Ministry of Defense, United Kingdom." The maps' legend also indicates that, although published in 1995, the source aerial photography was from 1988, with "field completion" in 1990. Since various editions of the maps were available, some of the later editions include a specific mangrove class in terms of the various "vegetation" classes depicted, but Zisman (1998) indicated that such depictions were not comprehensive. In terms of the acquisition of aerial photography as a monitoring option, the cost of acquiring aerial photography of Belize - and processing that imagery to [ortho-photos](https://www.esri.com/about/newsroom/insider/what-is-orthorectified-imagery) - is not known.
   * **UAV (drone) imagery:** The last 10-15 years has also seen a surge in the collection of drone imagery of Belize, although it is doubtful that the drone imagery are processed to orthorectified imagery. Major agencies from the Government of Belize with drone capabilities include but are not limited to:
     * Belize Coast Guard
     * Coastal Zone Management Authority & Institute (CZMAI), and
@@ -71,6 +78,9 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **Landsat (1984-present):** 
     * **MODIS (2000-present):** 
     * **VIIRS (2012-present):**
+
+## Methods: Mapping Changes in Belize's Mangrove Cover
+
 
 ## References
 
