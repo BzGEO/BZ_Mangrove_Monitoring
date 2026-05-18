@@ -5,19 +5,19 @@
 This is a GitHub repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
 
 ## Objective
-The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize.
+The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize. Among other things, mangrove ecosystems factor significantly into the various iterations of the Government of Belize's Nationally Determined Contributions (NDCs) under the Paris Agreement, with the restoration and increased protection of mangroves cited the most recent version of Belize's NDC submission, in addition to a proposal for adoption of a Belize Mangrove Alliance Action Plan (GOB, 2025). Mangroves also feature prominently in Belize's Forest Reference Level (FRL) reports, with mangroves being one of the key forest ecosystems assessed and with the utility of remote sensing to monitoring Belize's forests overall being noted (GOB, 2026).
 
 ## Context
 To understand the monitoring of mangrove ecosystems in Belize, and particularly the limitations related to such monitoring, it is useful to understand which species of mangrove are found in Belize, and to understand the structural communities they form. More specific to the issue of the limitations related to monitoring mangroves, it is useful to understand the various Earth observation data resources that are available for such monitoring.
 
-## Species of mangroves
+## Species of mangrove
 As documented in Murray et al. (2003), there are three species of mangroves in Belize:
-* Black mangrove (*Avicennia germinans*),
-* Red mangrove (*Rhizophora mangle*), and
-* White mangrove (*Laguncularia racemosa*).
+* **Black mangrove** (*Avicennia germinans*),
+* **Red mangrove** (*Rhizophora mangle*), and
+* **White mangrove** (*Laguncularia racemosa*).
 
 In Belize, there is also one noted mangrove associate:
-* Buttonwood (*Conocarpus erectus*).
+* **Buttonwood** (*Conocarpus erectus*).
 
 These are the same species found in other parts of the wider Caribbean region (Rull, 2023), i.e., there are no mangrove species found in other parts of the Caribbean that cannot be found in Belize.
 
@@ -29,6 +29,8 @@ As described by Zisman (1998) and Murray et al. (2003), in terms of actually map
 * **Medium mangrove** stands: Zisman (1999) defines this as follows: "These consist of mangrove thickets and shorter mangrove forests. Their height range is from 3m-4m to 7m-8m high."
 * **Tall mangrove** stands: Zisman (1999) defines this as follows: "These areas form mangrove forests and are over 7m-8m high."
 
+It should be noted that across various efforts, mangrove formations have either been mapped as a single class (i.e., mangroves), as the classes indicated above (with some additions, e.g., "mangroves in open water" or "mangroves in mixed forest"). To date, no efforts have been published mapping stands of individual mangrove species.
+
 ## Timeline
 The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
 
@@ -38,20 +40,19 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998).
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared. Zisman's work presented mangrove cover to 1992.
 * **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
-* **2007:** 
-* **2009:** 
+* **2009:** The Belize Barrier Reef Reserve System (BBRRS) World Heritage Site (WHS) - the country's only UNESCO World Heritage Site - is placed on the UNESCO List of World Heritage in Danger - where it will remain for almost nine years - because of clearing of mangroves within the protected areas making up the World Heritage Site.
 * **2010:** Publication of the Cherrington et al. (2010) report, which updated Zisman (1998)'s work using Landsat data for 1980, 1989, 1994, 2000, 2004, 2010.
 * **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize. Gregorio Canto's master's thesis, "A study of mangrove deforestation in Belize from Haulover Bridge to the Sibun River" was also published in 2011.
-* **2018:** 
+* **2018:** The Cherrington et al. (2018) technical report is completed and indicates that mangrove clearing within protected areas - including the BBRRS WHS - has slowed to almost nill. The findings are used to demonstrate that the Government of Belize has taken strong actions to cease threats to the BBRRS WHS. At the 42nd session of the World Heritage Committee, the decision was taken to remove the BBRRS WHS from the UNESCO List of World Heritage in Danger.
 * **2020:** Publication of multiple reports:
   * Cherrington & Griffin (2020) technical report on mangrove change in Belize, funded in the context of Belize's Marine Climate Change Adaptation Project (MCCAP), implemented by the Coastal Zone Management Authority & Institute (CZMAI).
-  * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report
-  * CATHALAC (2020) technical report on land cover in Belize, which includes 
+  * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report, published in the journal *Remote Sensing of Environment*.
+  * CATHALAC (2020) technical report on land cover in Belize, which includes mangroves as one of the classes mapped.
 * **2021:** Publication of Cissell et al. (2021), which re-mapped mangrove cover across Belize, using Sentinel-2 imagery.
 * **2023:** While not focused exclusively on mangroves, in the context of the NASA / USAID SERVIR program, researchers from the University of Alabama in Huntsville (UAH) - namely Emil Cherrington, Betzy Hernandez, Christine Evans and Lauren Carey - delivered a five-day training workshop in Oct. 2023 on forest monitoring using the Google Earth Engine (GEE) platform. One output of that training was the following GEE code repository, which continues to be updated: https://bit.ly/bz_repo.
 * **2024:** In late March 2024, the Belize Forest Department hosted researchers from the University of Alabama in Huntsville (Emil Cherrington and Christine Evans) for a short training on the use of remote sensing for mangrove monitoring and some limited field work.
 * **2025:** In September 2025, Emil Cherrington & Rob Griffin of UAH presented their preliminary findings of mangrove change in Belize at the National Forest Monitoring System Symposium in Belize City.
-* **2026:** 
+* **2026:** The "Spatial Assessment of Total Mangrove Cover for Belize and Change in Mangrove Cover for Belize (2020-2024)" project is being implemented.
 
 ## Earth observation data resources
 * **Aerial photography:**
@@ -60,12 +61,12 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * Belize Coast Guard
     * Coastal Zone Management Authority & Institute (CZMAI), and
     * Forest Department.
-* **Satellite imagery:**
+* **Satellite imagery:** Given the relative ease of accessing satellite imagery, the relatively low cost (or no cost), the reality that various satellites can provide complete coverage of Belize's territory, and image archives extending in some cases back to the 1970s, compared to aerial photography, satellite images are a compelling option for monitoring Belize's mangrove ecosystems, providing historical as well as more recent snapshots on the status of mangrove extents.
   * **Multispectral:**
-    * **Landsat (1972-present):** 
-    * **PlanetScope (2015-present):**
-  * **Hyperspectral:**
-    * **EO-1 Hyperion (2001-2017):**
+    * **Landsat (1972-present):** Multispectral imagery from the NASA / USGS Landsat program - the longest running civilian Earth observation program in the world - has been regularly collected over Belize since 1972. The first three Landsat satellites (i.e., Landsats 1-3) only possessed four spectral bands ranging from green to near-infrared, at a spatial resolution of 60m. The subsequent Landsat satellites (i.e., Landsats 4, 5, 7, 8, 9) possessed six spectral bands ranging from blue to shortwave infrared (with a 30m resolution), in addition to panchromatic and thermal bands, and the most recent two Landsat satellites also possess two additional spectral bands for detecting coastal aerosols and cirrus clouds. The currently operating Landsat-8 and Landsat-9 satellite constellation images Belize's territory every eight days, and the imagery are openly (freely) available. Even prior to the opening of the Landsat archive in early 2008, Landsat imagery factored into multiple efforts related to mapping Belize's mangroves, as well as mapping other vegetation types. Landsat data are also the preferred input for the LandTrendR algorithm and the data off which the algorithm was developed in 2010 (Kennedy et al. 2010). Given that the LandTrendR algorithm is readily available in the GEE platform, LandTrendR has recently been used in multiple studies for mapping mangrove change in Belize (e.g. Cherrington & Griffin 2020, Punalekar et al. 2024, Evans et al. 2025).
+    * **PlanetScope (2015-present):** Planet Labs PBC's PlanetScope satellites have been imaging Belize's territory on a ~daily basis since 2015, at a resolution of ~3m. From 2020-2025, under a contract with Norway's Climate and Forest Initiative (NICFI), Planet Labs made monthly wall-to-wall mosaics of the tropics - including Belize - available, with the last monthly mosaic covering January 2025. Mosaics were made available via GEE, as well as for download. Since the expiration of the NICFI Satellite Data Program as it was called, Belize became a beneficiary of a 3-year project under Planet's Project Centinela, whereby PlanetScope and other Planet imagery of roughly half of Belize are being made available to a consortium including the Belize Forest Department.
+  * **Hyperspectral:** Research indicates that compared to multispectal images, hyperspectral images can theoretically be used to differentiate species. That said, hyperspectral imagery of Belize is generally harder to come by.
+    * **EO-1 Hyperion (2001-2017):** While NASA's EO-1 satellite and its Hyperion hyperspectral sensor was in orbit for over a decade and a half, there aren't many Hyperion images of Belize or Belize's coast. Like Landsat data, Hyperion data are available at a 30m resolution.
     * **EMIT (2022-present):**
     * **PACE OCI (2024-present):**
     * **Planet Tanager (2024-present):**
@@ -113,6 +114,10 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 * Evans, C.E., Carey, L.E., Guerra, F., Cherrington, E.A., Correa, E.S., Quintero, D. 2025. Cloud-Based Solutions for Monitoring Coastal Ecosystems and the Prioritization of Restoration Efforts Across Belize. Remote Sensing, 17(20): 3396. https://doi.org/10.3390/rs17203396
 
 * Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., Moore, R. 2017. Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment, 202: 18-27. https://doi.org/10.1016/j.rse.2017.06.031
+
+* Government of Belize (GOB). 2025. Belize's Third Nationally Determined Contribution: NDC 3.0. Ministry of Sustainable Development, Climate Change, and Solid Waste Management. Technical report to the United Nations Framework Convention on Climate Change (UNFCCC). Belmopan, Belize. 128 pp. https://unfccc.int/sites/default/files/2025-06/BELIZE%20FINAL%20NDC%203.0.pdf
+
+* Government of Belize (GOB). 2026. Belize Modified Forest Reference Level (FRL) 2000-2020. Ministry of Sustainable Development, Climate Change, and Solid Waste Management. Technical report to the United Nations Framework Convention on Climate Change (UNFCCC).  Belmopan, Belize. 196 pp. https://redd.unfccc.int/media/belize_forest_reference_level_report_2024_modified_jan_20_2026.pdf
 
 * Kennedy, R.E., Yang, Z., Cohen, W.B. 2010. Detecting trends in forest disturbance and recovery using yearly Landsat time series: 1. LandTrendr — Temporal segmentation algorithms. Remote Sensing of Environment 114: 2897-2910.
 
