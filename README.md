@@ -7,6 +7,9 @@ This is a GitHub repository of resources related to mangrove monitoring in Beliz
 ## Objective
 The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize.
 
+# Context
+To understand the monitoring of mangrove ecosystems in Belize, and particularly the limitations related to such monitoring, it is useful to understand which species of mangrove are found in Belize, and to understand the structural communities they form. More specific to the issue of the limitations related to monitoring mangroves, it is useful to understand the various Earth observation data resources that are available for such monitoring.
+
 ## Species of mangroves
 As documented in Murray et al. (2003), there are three species of mangroves in Belize:
 * Black mangrove (*Avicennia germinans*),
@@ -22,25 +25,25 @@ These are the same species found in other parts of the wider Caribbean region (R
 
 
 ## Timeline
-
 The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
 
 * **1994:** Publication of Fairweather & Gray (1994), a report and accompanying map of Belize's land cover, which included a mangrove class in its legend. The limitations of the data were later explored in the subsequent Zisman (1998) dissertation.
 * **~1995:**  
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998)
-* **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared.
-* **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." A subsequent article was never published by the team.
+* **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared. Zisman's work presented mangrove cover to 1992.
+* **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
 * **2007:** 
 * **2009:** 
-* **2010:** 
+* **2010:** Publication of the Cherrington et al. (2010) report, which updated Zisman (1998)'s work using Landsat data for 1980, 1989, 1994, 2000, 2004, 2010.
+* **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize.
 * **2018:** 
 * **2020:** Publication of multiple reports:
   * Cherrington & Griffin (2020) technical report on the 
   * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report
   * CATHALAC (2020) technical report on land cover in Belize, which includes 
 * **2021:** Publication of Cissell et al. (2021), which re-mapped mangrove cover across Belize, using Sentinel-2 imagery.
-* **2024:** 
-* **2025:** 
+* **2024:** In late March 2024, the Belize Forest Department hosted researchers from the University of Alabama in Huntsville (UAH) for a short training on the use of remote sensing for mangrove monitoring and some limited field work.
+* **2025:** In September 2025,
 * **2026:** 
 
 ## Earth observation data resources
@@ -61,6 +64,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **Planet Tanager (2024-present):**
   * **Synthetic aperture radar:**
     * **ALOS PALSAR (2007-present):**
+    * **Biomass (2025-present):** While the Biomass mission 
     * **NISAR (2025-present):** 
     * **Sentinel-1 (2014-present):** 
   * **Thermal infrared:**
