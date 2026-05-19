@@ -81,7 +81,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **VIIRS (2012-present):**
 
 ## Methods: Mapping Changes in Belize's Mangrove Cover
-
+It can be considered that there are two general approaches to looking at mangrove cover and mangrove change in Belize. One approach imvolves choosing an existing baseline and then mapping changes from that baseline. That approach, for instance, has been employed by previous evaluations including the various Cherrington et al. assessments, which treat Zisman's original mangrove data as the baseline from which to map change. The other main approach to mapping mangrove cover specifically is what can be considered one-off approaches which seek to map mangroves from scratch and which essentially ignore earlier efforts as they generally do not incorporate previous knowledge on the state of Belize's mangroves.
 
 ## References
 
