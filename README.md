@@ -81,7 +81,11 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **VIIRS (2012-present):**
 
 ## Methods: Mapping Changes in Belize's Mangrove Cover
-It can be considered that there are two general approaches to looking at mangrove cover and mangrove change in Belize. One approach imvolves choosing an existing baseline and then mapping changes from that baseline. That approach, for instance, has been employed by previous evaluations including the various Cherrington et al. assessments, which treat Zisman's original mangrove data as the baseline from which to map change. The other main approach to mapping mangrove cover specifically is what can be considered one-off approaches which seek to map mangroves from scratch and which essentially ignore earlier efforts as they generally do not incorporate previous knowledge on the state of Belize's mangroves.
+It can be considered that there are two general approaches to looking at mangrove cover and mangrove change in Belize. One approach imvolves choosing an existing baseline and then mapping changes from that baseline. That approach, for instance, has been employed by previous evaluations including the various Cherrington et al. assessments, which treat Zisman's original mangrove data as the baseline from which to map change. The other main approach to mapping mangrove cover specifically is what can be considered one-off approaches which seek to map mangroves from scratch and which essentially ignore earlier efforts as they generally do not incorporate previous knowledge on the state of Belize's mangroves. To that point, an assessment by Cherrington & Evans in 2024 found that estimates of mangrove cover vary widely between Zisman (1998), CATHALAC (2020), Cissell et al. (2021), and the Global Mangrove Watch, temporal differences notwithstanding.
+
+## Workflow for mapping mangrove change from a baseline
+1. Selection of a baseline dataset for mangrove cover (e.g. Zisman, 1998), from which change will be estimated.
+2. 
 
 ## References
 
