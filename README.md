@@ -94,6 +94,10 @@ It can be considered that there are two general approaches to looking at mangrov
 8. Review of the results to confirm changes in mangrove cover, including removal of spurious results.
 9. Incorporation of the change data into the baseline map.
 
+## Example workflow for mangrove change mapping using Google Earth Engine
+
+1. 
+
 ## References
 
 * Bunting, P., Rosenqvist, A., Lucas, R.M., Rebelo, L.M., Hilarides, L., Thomas, N., Hardy, A., Itoh, T., Shimada, M., Finlayson, C.M. 2018. The Global Mangrove Watch—A new 2010 global baseline of mangrove extent. Remote Sensing, 10 (10): 1669. https://doi.org/10.3390/rs10101669
