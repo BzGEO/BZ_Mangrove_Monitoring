@@ -2,7 +2,7 @@
 *Last updated: May 2026*
 
 ## Description
-This is a GitHub repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
+This is a [GitHub](https://github.com) repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
 
 ## Objective
 The objective of this repository is to maintain a 'living document' regarding the state of mangrove monitoring in Belize. Among other things, mangrove ecosystems factor significantly into the various iterations of the Government of Belize's Nationally Determined Contributions (NDCs) under the Paris Agreement, with the restoration and increased protection of mangroves cited the most recent version of Belize's NDC submission, in addition to a proposal for adoption of a Belize Mangrove Alliance Action Plan (GOB, 2025). Mangroves also feature prominently in Belize's Forest Reference Level (FRL) reports, with mangroves being one of the key forest ecosystems assessed and with the utility of remote sensing to monitoring Belize's forests overall being noted (GOB, 2026). (In terms of general information on Belize's mangroves, there are two [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) articles, one on [coastal mangroves](https://en.wikipedia.org/wiki/Belizean_Coast_mangroves), and another on [reef mangroves](https://en.wikipedia.org/wiki/Belizean_reef_mangroves).)
