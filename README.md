@@ -144,6 +144,8 @@ It can be considered that there are two general approaches to looking at mangrov
 
 * Rull, V. 2023. Rise and fall of Caribbean mangroves. Science of the Total Environment 885: 163851. https://doi.org/10.1016/j.scitotenv.2023.163851
 
+* World Wildlife Fund (WWF). 2022. Belize Mangrove Alliance Action Plan: 2022-2027. Belize City, Belize. 38 pp. https://wwflac.awsassets.panda.org/downloads/bma_action_plan.pdf
+
 * Zisman, S.A. 1998. Sustainability or Status Quo: Elite Influence and the Political Ecology of Mangrove Exploitation in Belize. Doctoral dissertation, Department of Geography, University of Edinburgh. Edinburgh, Scotland. 277 pp. https://www.era.lib.ed.ac.uk/bitstream/handle/1842/22768/ZismanS_1998redux.pdf
 
 ## Acknowledgements
