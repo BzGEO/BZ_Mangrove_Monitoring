@@ -93,7 +93,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 **Table 1.** Comparison of area estimates of Belize's mangrove cover.
 
-| Source | Area (ha.) | Approx. data year | Includes iland mangroves? | Includes mangrove savanna? | Data source | Notes |
+| Source | Area (ha.) | Approx. data year | Includes inland mangroves? | Includes mangrove savanna? | Data source | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | CATHALAC (2020) | 70,054 | 2018 | Yes | No | Sentinel-2 | part of a national land cover mapping effort |
 | Cherrington & Griffin (2020) | 75,101 | 2019 | Yes | Yes | Landsat | based on Zisman (1998) |
