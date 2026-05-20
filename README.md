@@ -73,14 +73,14 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 
 **Figure 1.** Comparison of various sources of multispectral imagery over Belize City, with 2019 mangrove polyline boundaries overlaid in red.
 
-  * **Hyperspectral:** Research indicates that compared to multispectal images, hyperspectral images can theoretically be used to differentiate species. That said, hyperspectral imagery of Belize is generally harder to come by.
-    * **EO-1 Hyperion (2001-2017):** While NASA's EO-1 satellite and its Hyperion hyperspectral sensor was in orbit for over a decade and a half, there aren't many Hyperion images of Belize or Belize's coast. Like Landsat data, Hyperion data are available at a 30m resolution.
-    * **EMIT (2022-present):**
-    * **PACE OCI (2024-present):**
-    * **Planet Tanager (2024-present):**
+  * **Hyperspectral:** Research indicates that compared to multispectal images, hyperspectral images can theoretically be used to differentiate species. That said, hyperspectral imagery of Belize is generally harder to come by. A basic comparison of the main sources of open hyperspectral data can be found at: https://github.com/BzGEO/Hyperspectral_Toolkit/blob/main/README.md#comparison-of-characteristics-of-open-hyperspectral-datasets.
+    * **EO-1 Hyperion (2001-2017):** While NASA's EO-1 satellite and its Hyperion hyperspectral sensor was in orbit for over a decade and a half, there aren't many Hyperion images of Belize or Belize's coast. Like Landsat data, Hyperion data are available at a 30m resolution, but Hypersion data have 224 spectral bands.
+    * **EMIT (2022-present):** 
+    * **PACE OCI (2024-present):** Since early March 2024, NASA's PACE satellite has been capturing *daily* hyperspectral imagery of all of Belize's territory via its hyperspectral imager, the Ocean Color Instrument (OCI), which despite its name, also images land as well as ocean. PACE OCI data have a spatial resolution of 1.2 km at nadir, and OCI's [terrestrial-focused] *provisional* surface reflectance product currently (as of version 3.2) has 122 spectral bands. Since most of Belize's mangrove stands are unlikely to completely cover a 1.2 km x 1.2 km pixel, it is unlikely that PACE OCI data will be very useful for mangrove monitoring.
+    * **Planet Tanager (2024-present):** While data from Planet's Tanager constellation are not open, Planet has released an open spatio-temporal asset catalog (STAC), which includes a single image collected on 27 August 2025 over a part of Belize's Corozal District (and including some mangrove areas). See: https://www.planet.com/data/stac/browser/tanager-core-imagery/coastal-water-bodies/20250827_091452_85_4001/20250827_091452_85_4001.json. Tanager data have 30m spatial resolution and 426 spectral bands.
   * **Synthetic aperture radar:**
     * **ALOS PALSAR (2007-present):**
-    * **Biomass (2025-present):** While the Biomass mission 
+    * **Biomass (2025-present):** While the Biomass mission represents the first P-band satellite mission (following the collection of the very first spaceborne SAR imagery of the Earth in the late 1970s), the Biomass mission will not image North America, Central America, or the Caribbean, so Biomass imagery of Belize is not anticipated.
     * **NISAR (2025-present):** 
     * **Sentinel-1 (2014-present):** 
   * **Thermal infrared:**
