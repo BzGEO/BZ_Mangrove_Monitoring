@@ -116,6 +116,8 @@ It can be considered that there are two general approaches to looking at mangrov
 
 * Bunting, P., Rosenqvist, A., Lucas, R.M., Rebelo, L.M., Hilarides, L., Thomas, N., Hardy, A., Itoh, T., Shimada, M., Finlayson, C.M. 2018. The Global Mangrove Watch—A new 2010 global baseline of mangrove extent. Remote Sensing, 10 (10): 1669. https://doi.org/10.3390/rs10101669
 
+* Bunting, P., Rosenqvist, A., Hilarides, L., Lucas, R. M., Thomas, N., Tadono, T., Worthington, T. A., Spalding, M., Murray, N. J., & Rebelo, L.-M. 2022. Global mangrove extent change 1996–2020: Global Mangrove Watch Version 3.0. Remote Sensing, 14(15), 3657. https://doi.org/10.3390/rs14153657
+
 * Centro del Agua del Trópico Húmedo para America Latina y el Caribe (CATHALAC). 2020. The Development of a Land Use Land Cover Map of 2018 Using Sentinel-2 Images under the REDD+ Readiness Project in Belize. Technical report. Forest Department, Ministry of Fisheries, Forestry, the Environment, and Sustainable Development (MAFFESD). Belmopan, Belize. 171 pp.
 
 * Cherrington, E.A., Hernandez, B.E., Trejos, N.A., Smith, O.A., Anderson, E.R., Flores, A.I., and Garcia, B.C. 2010. Identification of Threatened and Resilient Mangroves in the Belize Barrier Reef System. Technical report to the World Wildlife Fund. Water Center for the Humid Tropics of Latin America and the Caribbean / Regional Visualization & Monitoring System (SERVIR). Panama City, Panama. 28 pp. https://www.researchgate.net/publication/257579955_Identification_of_Threatened_and_Resilient_Mangroves_in_the_Belize_Barrier_Reef_System
