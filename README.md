@@ -40,14 +40,14 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998).
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared. Zisman's work presented mangrove cover to 1992.
 * **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
-* **2009:** The Belize Barrier Reef Reserve System (BBRRS) World Heritage Site (WHS) - the country's only UNESCO World Heritage Site - is placed on the UNESCO List of World Heritage in Danger - where it will remain for almost nine years - because of clearing of mangroves within the protected areas making up the World Heritage Site.
+* **2009:** The [Belize Barrier Reef Reserve System (BBRRS) World Heritage Site (WHS)](https://whc.unesco.org/en/collections/33/) - the country's only UNESCO World Heritage Site - is placed on the [UNESCO List of World Heritage in Danger](https://whc.unesco.org/en/danger-list/) - where it will remain for almost nine years - because of clearing of mangroves within the protected areas making up the World Heritage Site.
 * **2010:** Publication of the Cherrington et al. (2010) report, which updated Zisman (1998)'s work using Landsat data for 1980, 1989, 1994, 2000, 2004, 2010.
 * **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize. Gregorio Canto's master's thesis, "A study of mangrove deforestation in Belize from Haulover Bridge to the Sibun River" was also published in 2011.
-* **2018:** The Cherrington et al. (2018) technical report is completed and indicates that mangrove clearing within protected areas - including the BBRRS WHS - has slowed to almost nill. The findings are used to demonstrate that the Government of Belize has taken strong actions to cease threats to the BBRRS WHS. At the 42nd session of the World Heritage Committee, the decision was taken to remove the BBRRS WHS from the UNESCO List of World Heritage in Danger.
+* **2018:** The Cherrington et al. (2018) technical report is completed and indicates that mangrove clearing within protected areas - including the BBRRS WHS - has slowed to almost nill. The findings are used to demonstrate that the Government of Belize has taken strong actions to cease threats to the BBRRS WHS. At the 42nd session of the World Heritage Committee, the [decision was taken to remove](https://whc.unesco.org/en/news/1838) the BBRRS WHS from the UNESCO List of World Heritage in Danger.
 * **2020:** Publication of multiple reports:
   * Cherrington & Griffin (2020) technical report on mangrove change in Belize, funded in the context of Belize's Marine Climate Change Adaptation Project (MCCAP), implemented by the Coastal Zone Management Authority & Institute (CZMAI).
-  * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report, published in the journal *Remote Sensing of Environment*.
-  * CATHALAC (2020) technical report on land cover in Belize, which includes mangroves as one of the classes mapped.
+  * Cherrington et al. (2020) paper on mangroves in Belize, a peer-reviewed version of the 2018 technical report, published in the journal [*Remote Sensing of Environment*](https://www.sciencedirect.com/journal/remote-sensing-of-environment).
+  * CATHALAC (2020) technical report on land cover in Belize, which includes mangroves as one of the classes mapped using Copernicus Sentinel-2 imagery.
 * **2021:** Publication of Cissell et al. (2021), which re-mapped mangrove cover across Belize, using Sentinel-2 imagery.
 * **2023:** While not focused exclusively on mangroves, in the context of the [now defunct] NASA / USAID SERVIR program, researchers from the University of Alabama in Huntsville (UAH) - namely Emil Cherrington, Betzy Hernandez, Christine Evans and Lauren Carey - delivered a five-day training workshop in Oct. 2023 on forest monitoring using the [Google Earth Engine (GEE)](https://code.earthengine.google.com) platform. One output of that training was the following GEE code repository, which continues to be updated: https://bit.ly/bz_repo.
 * **2024:** In late March 2024, the Belize Forest Department hosted researchers from the University of Alabama in Huntsville (Emil Cherrington and Christine Evans) for a short training on the use of remote sensing for mangrove monitoring and some limited field work.
@@ -99,6 +99,11 @@ It can be considered that there are two general approaches to looking at mangrov
 | Cherrington & Griffin (2020) | 75,101 | 2019 | Yes | Yes | Landsat | based on Zisman (1998) |
 | Cissell et al. (2021) | 60,747 | 2020 | No | No | Sentinel-2 | |
 | Global Mangrove Watch | 52,189 | 2018 | No | No | ALOS PALSAR, Landsat | part of a global mangrove mapping effort |
+
+
+<img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/6b94b660-f0c2-4c9a-9b3c-69cc11d933b3" />
+
+**Figure 2.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map.
 
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
