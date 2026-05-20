@@ -86,7 +86,7 @@ It can be considered that there are two general approaches to looking at mangrov
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
 2. Selection of a method and platform for evaluating change (e.g., spectral mixture analysis-based change using CLASlite, or changes in normalized burn ratio estimated using the LandTrendR algorithm based in the Google Earth Engine platform).
-3. Selection of [satellite] image data sources appropriate for the method and platform (e.g., Landsat or Sentinel-2 imagery).
+3. Selection of [satellite] image data sources, preferably multispectral, that are appropriate for the method and platform (e.g., Landsat or Sentinel-2 imagery). It goes without saying that multispectral images need to be cloud-free to be useful. In general, the most cloud-free images of Belize are acquired in the January to May timeframe annually (corresponding roughly with the dry season).
 4. Selection of a time period for the change to be mapped (e.g., 2020-2026).
 5. Selection of the geographic domain (e.g., all of Belize's territory, or the area known to have mangroves on the coast and inland).
 6. Execution of the change detection.
