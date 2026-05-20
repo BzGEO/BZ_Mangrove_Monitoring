@@ -103,7 +103,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 <img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/6b94b660-f0c2-4c9a-9b3c-69cc11d933b3" />
 
-**Figure 2.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map.
+**Figure 2.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
 
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
