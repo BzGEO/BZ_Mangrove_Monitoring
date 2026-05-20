@@ -154,7 +154,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 * Government of Belize (GOB). 2026. Belize Modified Forest Reference Level (FRL) 2000-2020. Ministry of Sustainable Development, Climate Change, and Solid Waste Management. Technical report to the United Nations Framework Convention on Climate Change (UNFCCC).  Belmopan, Belize. 196 pp. https://redd.unfccc.int/media/belize_forest_reference_level_report_2024_modified_jan_20_2026.pdf
 
-* Kennedy, R.E., Yang, Z., Cohen, W.B. 2010. Detecting trends in forest disturbance and recovery using yearly Landsat time series: 1. LandTrendr — Temporal segmentation algorithms. Remote Sensing of Environment 114: 2897-2910.
+* Kennedy, R.E., Yang, Z., Cohen, W.B. 2010. Detecting trends in forest disturbance and recovery using yearly Landsat time series: 1. LandTrendr — Temporal segmentation algorithms. Remote Sensing of Environment 114: 2897-2910. https://doi.org/10.1016/j.rse.2010.07.008
 
 * Kennedy, R.E., Yang, Z., Gorelick, N., Braaten, N., Cavalcante, L., Cohen, W.B., Healey, S. 2018. Implementation of the LandTrendr Algorithm on Google Earth Engine. Remote Sensing 10 (5): 691. https://doi.org/10.1016/j.rse.2010.07.008
 
