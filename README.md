@@ -88,6 +88,15 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 ## Methods: Mapping Changes in Belize's Mangrove Cover
 It can be considered that there are two general approaches to looking at mangrove cover and mangrove change in Belize. One approach imvolves choosing an existing baseline and then mapping changes from that baseline. That approach, for instance, has been employed by previous evaluations including the various Cherrington et al. assessments, which treat Zisman's original mangrove data as the baseline from which to map change. The other main approach to mapping mangrove cover specifically is what can be considered one-off approaches which seek to map mangroves from scratch and which essentially ignore earlier efforts as they generally do not incorporate previous knowledge on the state of Belize's mangroves. To that point, an assessment by Cherrington & Evans in 2024 found that estimates of mangrove cover vary widely between Zisman (1998), CATHALAC (2020), Cissell et al. (2021), and the Global Mangrove Watch, temporal differences notwithstanding.
 
+**Table 1.** Comparison of area estimates of Belize's mangrove cover.
+
+| Source | Area (ha.) | Approx. data year | Inland mangroves? | Mangrove savanna? | Data source | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| CATHALAC (2020) | 70,054 | 2018 | Yes | No | Sentinel-2 | |
+| Cherrington & Griffin (2020) | 75,101 | 2019 | Yes | Yes | Landsat | based on Zisman (1998) |
+| Cissell et al. (2021) | 60,747 | 2020 | No | No | Sentinel-2 | |
+| Global Mangrove Watch | 52,189 | 2018 | No | No | ALOS PALSAR, Landsat | |
+
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
 2. Selection of a method and platform for evaluating change (e.g., spectral mixture analysis-based change using CLASlite, or changes in normalized burn ratio estimated using the LandTrendR algorithm based in the Google Earth Engine platform).
