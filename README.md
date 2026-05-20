@@ -43,7 +43,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 *  **1994:** Publication of Fairweather & Gray (1994), a report and accompanying map of Belize's land cover, which included a mangrove class in its legend. The limitations of the data were later explored in the subsequent Zisman (1998) dissertation.
 * **1998:** Publication of Simon Zisman's doctoral dissertation on the status of mangrove ecosystems in Belize (Zisman, 1998).
 * **1999:** Dr. Simon Zisman gave a public presentation of the findings of his 1998 dissertation at the Radisson Fort George hotel in Belize, where he released technical notes on the associated mangrove spatial data (shapefiles) that he shared. Zisman's work presented mangrove cover to 1992.
-* **2003:** Publication of Murray et al.'s "The mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
+* **2003:** Publication of Murray et al.'s "The Mangroves of Belize: Part 1." Notably, a subsequent article was never published by the team.
 * **2009:** The [Belize Barrier Reef Reserve System (BBRRS) World Heritage Site (WHS)](https://whc.unesco.org/en/collections/33/) - the country's only UNESCO World Heritage Site - is placed on the [UNESCO List of World Heritage in Danger](https://whc.unesco.org/en/danger-list/) - where it will remain for almost nine years - because of clearing of mangroves within the protected areas making up the World Heritage Site.
 * **2010:** Publication of the Cherrington et al. (2010) report, which updated Zisman (1998)'s work using Landsat data for 1980, 1989, 1994, 2000, 2004, 2010.
 * **2011:** Validation of the Cherrington et al. (2010) report, via the Cho-Ricketts & Cherrington (2011) effort, which involved field work conducted by multiple Non-Governmental Organizations (NGOs) across Belize. Gregorio Canto's master's thesis, "A study of mangrove deforestation in Belize from Haulover Bridge to the Sibun River" was also published in 2011.
@@ -207,7 +207,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 * Morrissette, H.K. et al. 2023. Belize Blue Carbon: Establishing a national carbon stock estimate for mangrove ecosystems. Science of the Total Environment 870: 161829. https://doi.org/10.1016/j.scitotenv.2023.161829
 
-* Murray, M.R., Zisman, S.A., Furley, P.A., Munro, D.M., Gibson, J., Ratter, J., Bridgewater, S., Minty, C.D., Place, C.J. 2003. The mangroves of Belize: Part 1. distribution, composition and classification. Forest Ecology and Management 174 (1-3): 265-279. https://doi.org/10.1016/S0378-1127(02)00036-1
+* Murray, M.R., Zisman, S.A., Furley, P.A., Munro, D.M., Gibson, J., Ratter, J., Bridgewater, S., Minty, C.D., Place, C.J. 2003. The Mangroves of Belize: Part 1. Distribution, Composition and Classification. Forest Ecology and Management 174 (1-3): 265-279. https://doi.org/10.1016/S0378-1127(02)00036-1
 
 * Punalekar, S., Canty, S.W.J., Fergus, C., Huang, Q., Songer, M., Nowakowski, A.J., Connette, G.M. 2024. Characterizing the dynamics of mangrove forests in the Mesoamerican reef region using remote sensing methods. AGU Fall Meeting 2024. Poster. Poster No. 158, id. GC51O-0158. https://ui.adsabs.harvard.edu/abs/2024AGUFMGC51O0158P/abstract
 
