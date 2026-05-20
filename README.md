@@ -35,6 +35,10 @@ As described by Zisman (1998) and Murray et al. (2003), in terms of actually map
 
 It should be noted that across various efforts, mangrove formations have either been mapped as a single class (i.e., mangroves), as the classes indicated above (with some additions, e.g., "mangroves in open water" or "mangroves in mixed forest"). To date, no efforts have been published mapping stands of individual mangrove species.
 
+<img width="631" height="726" alt="bz_mangrove_01c_types" src="https://github.com/user-attachments/assets/9985594b-d2f1-46e4-850c-00fce9cd7108" />
+
+**Figure 1.** Location of mangrove structural types, based on Zisman (1998).
+
 ## Timeline
 The following is an abridged timeline of efforts to monitor Belize's mangrove resources in the recent past:
 
@@ -75,7 +79,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 
 <img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/9af3f166-090a-4a9b-bfef-cca474791292" />
 
-**Figure 1.** Comparison of various sources of multispectral imagery over Belize City, with 2019 mangrove polyline boundaries overlaid in red.
+**Figure 2.** Comparison of various sources of multispectral imagery over Belize City, with 2019 mangrove polyline boundaries overlaid in red.
 
   * **Hyperspectral:** Research indicates that compared to multispectal images, hyperspectral images can theoretically be used to differentiate species. That said, hyperspectral imagery of Belize is generally harder to come by. A basic comparison of the main sources of open hyperspectral data can be found at: https://github.com/BzGEO/Hyperspectral_Toolkit/blob/main/README.md#comparison-of-characteristics-of-open-hyperspectral-datasets.
     * **EO-1 Hyperion (2001-2017):** While NASA's EO-1 satellite and its Hyperion hyperspectral sensor was in orbit for over a decade and a half, there aren't many Hyperion images of Belize or Belize's coast. Like Landsat data, Hyperion data are available at a 30m resolution, but Hypersion data have 224 spectral bands.
@@ -90,7 +94,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 
 <img width="502" height="731" alt="image" src="https://github.com/user-attachments/assets/1a770a3e-7a08-4c54-9f02-3843db18e134" />
 
-**Figure 2.** ALOS PALSAR dual polarization mosaic of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green).
+**Figure 3.** ALOS PALSAR dual polarization mosaic of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green).
   
   * **Thermal infrared:** 
     * **Landsat (1984-present):** While Landsat-4 (L4) launched in 1982, there are relatively few available L4 scenes available for Belize (see: https://code.earthengine.google.com/scriptPath=users%2Fservirbz%2Fbz_mrv%3A00_misc%2F_count_images%2F01_count_images_bz_belize_city). However, since then, Landsat-5, -7, -8, and -9 have provided fairly consistent thermal imaging coverage of Belize.
@@ -112,7 +116,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 <img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/6b94b660-f0c2-4c9a-9b3c-69cc11d933b3" />
 
-**Figure 3.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
+**Figure 4.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
 
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
