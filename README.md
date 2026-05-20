@@ -83,10 +83,15 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **PACE OCI (2024-present):** Since early March 2024, NASA's PACE satellite has been capturing *daily* hyperspectral imagery of all of Belize's territory via its hyperspectral imager, the Ocean Color Instrument (OCI), which despite its name, also images land as well as ocean. PACE OCI data have a spatial resolution of 1.2 km at nadir, and OCI's [terrestrial-focused] *provisional* surface reflectance product currently (as of version 3.2) has 122 spectral bands. Since most of Belize's mangrove stands are unlikely to completely cover a 1.2 km x 1.2 km pixel, it is unlikely that PACE OCI data will be very useful for mangrove monitoring.
     * **Planet Tanager (2024-present):** While data from Planet's Tanager constellation are not open, Planet has released an open spatio-temporal asset catalog (STAC), which includes a single image collected on 27 August 2025 over a part of Belize's Corozal District (and including some mangrove areas). See: https://www.planet.com/data/stac/browser/tanager-core-imagery/coastal-water-bodies/20250827_091452_85_4001/20250827_091452_85_4001.json. Tanager data have 30m spatial resolution and 426 spectral bands.
   * **Synthetic aperture radar (SAR):** As documented in Chapter 6 of the [SERVIR SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook), SAR data can be useful in mapping and monitoring mangroves, especially since SAR can penetrate cloud cover.
-    * **ALOS PALSAR (2007-present):**
+    * **ALOS PALSAR (2007-present):** The initial ALOS PALSAR satellite was launched in early 2006, but publicly available imagery of Belize (accessible via the Alaska Satellite Facility Distributed Active Archive Center) is from 2007. While the L-band PALSAR data provide additional structural discrimination compared to C-band Sentinel-1 data, one challenge is that ALOS PALSAR data are overall difficult to come by, although the Japanese Space Agency (JAXA) has released a number of annual mosaics, some of which are publicly / openly available via Google Earth Engine (see [version 1](https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_PALSAR_YEARLY_SAR) and [version 2.5](https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_PALSAR_YEARLY_SAR_EPOCH) of the mosaic data).
     * **Biomass (2025-present):** While the Biomass mission represents the first P-band satellite mission (following the collection of the very first spaceborne SAR imagery of the Earth in the late 1970s), the Biomass mission will not image North America, Central America, or the Caribbean, so Biomass imagery of Belize is not anticipated.
-    * **NISAR (2025-present):** 
-    * **Sentinel-1 (2014-present):** 
+    * **NISAR (2025-present):** While the NISAR mission launched in July 2025, as of the writing of this, none of NISAR's L-band imagery over Belize has yet been released publicly. It is anticipated that the data will be released in July 2026, and it is also anticipated that the imagery will appear similar to the [also L-band] ALOS PALSAR data.
+    * **Sentinel-1 (2014-present):** Copernicus' C-band Sentinel-1A satellite launched in 2014, and there is imagery of Belize dating to October 2014. While Sentinel-1 imagery appear to distinguish clear-cutting of forests very well (including clear-cutting of mangroves), mangroves as such do not appear particularly distinct in Sentinel-1 imagery, likely due to the characteristics of C-band SAR data.
+
+<img width="502" height="731" alt="image" src="https://github.com/user-attachments/assets/1a770a3e-7a08-4c54-9f02-3843db18e134" />
+
+**Figure 2.** ALOS PALSAR dual polarization mosaic of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green).
+  
   * **Thermal infrared:** 
     * **Landsat (1984-present):** While Landsat-4 (L4) launched in 1982, there are relatively few available L4 scenes available for Belize (see: https://code.earthengine.google.com/scriptPath=users%2Fservirbz%2Fbz_mrv%3A00_misc%2F_count_images%2F01_count_images_bz_belize_city). However, since then, Landsat-5, -7, -8, and -9 have provided fairly consistent thermal imaging coverage of Belize.
     * **MODIS (2000-present):** Given that mangroves occupy relatively small fringes and given that the spatial resolution of MODIS thermal data are 1km, it is unlikely that those data have the spatial resolution sufficient for monitoring Belize's mangroves.
@@ -107,7 +112,7 @@ It can be considered that there are two general approaches to looking at mangrov
 
 <img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/6b94b660-f0c2-4c9a-9b3c-69cc11d933b3" />
 
-**Figure 2.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
+**Figure 3.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
 
 ## Workflow for mapping mangrove change from a baseline
 1. Selection of a baseline dataset for mangrove cover (e.g., Zisman, 1998), from which change will be estimated.
