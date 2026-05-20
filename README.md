@@ -148,8 +148,12 @@ It can be considered that there are two general approaches to looking at mangrov
 
 6. Following clipping, a new field, preferably called **Area_ha** is added to the attribute table of the shapefile.
 7. Next, the area of each change polygon is estimated using **Calculate Geometry** and selecting hectares as the unit of measurement.
-8. The data are then copied, since the change polygons will be modified.
-9. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are below 1 hectare in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
+
+<img width="430" height="383" alt="Screenshot 2026-05-20 093837" src="https://github.com/user-attachments/assets/bb3bb0c9-7aca-4e79-b57c-72e305302a66" />
+
+
+9. The data are then copied, since the change polygons will be modified.
+10. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are below 1 hectare in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
 
 *Audit changes*
 
