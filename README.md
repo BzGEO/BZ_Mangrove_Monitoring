@@ -84,9 +84,9 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **Planet Tanager (2024-present):** While data from Planet's Tanager constellation are not open, Planet has released an open spatio-temporal asset catalog (STAC), which includes a single image collected on 27 August 2025 over a part of Belize's Corozal District (and including some mangrove areas). See: https://www.planet.com/data/stac/browser/tanager-core-imagery/coastal-water-bodies/20250827_091452_85_4001/20250827_091452_85_4001.json. Tanager data have 30m spatial resolution and 426 spectral bands.
   * **Synthetic aperture radar (SAR):** As documented in Chapter 6 of the [SERVIR SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook), SAR data can be useful in mapping and monitoring mangroves, especially since SAR can penetrate cloud cover.
     * **ALOS PALSAR (2007-present):** The initial ALOS PALSAR satellite was launched in early 2006, but publicly available imagery of Belize (accessible via the Alaska Satellite Facility Distributed Active Archive Center) is from 2007. While the L-band PALSAR data provide additional structural discrimination compared to C-band Sentinel-1 data, one challenge is that ALOS PALSAR data are overall difficult to come by, although the Japanese Space Agency (JAXA) has released a number of annual mosaics, some of which are publicly / openly available via Google Earth Engine (see [version 1](https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_PALSAR_YEARLY_SAR) and [version 2.5](https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_PALSAR_YEARLY_SAR_EPOCH) of the mosaic data).
-    * **Biomass (2025-present):** While the Biomass mission represents the first P-band satellite mission (following the collection of the very first spaceborne SAR imagery of the Earth in the late 1970s), the Biomass mission will not image North America, Central America, or the Caribbean, so Biomass imagery of Belize is not anticipated.
+    * **Biomass (2025-present):** While the Biomass mission - launched in April 2025 - represents the first P-band satellite mission (following the collection of the very first spaceborne SAR imagery of the Earth in the late 1970s), the Biomass mission will not image North America, Central America, or the Caribbean, so Biomass imagery of Belize is not anticipated.
     * **NISAR (2025-present):** While the NISAR mission launched in July 2025, as of the writing of this, none of NISAR's L-band imagery over Belize has yet been released publicly. It is anticipated that the data will be released in July 2026, and it is also anticipated that the imagery will appear similar to the [also L-band] ALOS PALSAR data.
-    * **Sentinel-1 (2014-present):** Copernicus' C-band Sentinel-1A satellite launched in 2014, and there is imagery of Belize dating to October 2014. While Sentinel-1 imagery appear to distinguish clear-cutting of forests very well (including clear-cutting of mangroves), mangroves as such do not appear particularly distinct in Sentinel-1 imagery, likely due to the characteristics of C-band SAR data.
+    * **Sentinel-1 (2014-present):** Copernicus' C-band Sentinel-1A satellite launched in April 2014, and there is imagery of Belize dating to October 2014. While Sentinel-1 imagery appear to distinguish clear-cutting of forests very well (including clear-cutting of mangroves), mangroves as such do not appear particularly distinct in Sentinel-1 imagery, likely due to the characteristics of C-band SAR data.
 
 <img width="502" height="731" alt="image" src="https://github.com/user-attachments/assets/1a770a3e-7a08-4c54-9f02-3843db18e134" />
 
@@ -127,8 +127,39 @@ It can be considered that there are two general approaches to looking at mangrov
 
 ## Example workflow for mangrove change mapping using Google Earth Engine and ArcGIS
 
-1. x
-2. LandTrendR
+*Perform change detection using GEE*
+1. LandTrendR is run in GEE over all of Belize for the period 1984-2026. A recurring annual period of 1 January to 31 May is specified to both capture images from the dry season and also to limit the analysis required to compositing 5 months of data rather than 12 months of data. LandTrendR is run using the Normalized Burn Ratio (NBR) instead of other indices like the Normalized Difference Vegetation Index (NDVI), as research indicates that NBR is more sensitive to clear-cutting than NDVI. Standard parameters found in the LandTrendR repository are used for magnitude changes.
+
+*Export change data for desktop GIS analysis*
+
+2. Following the completion of a LandTrendR run, which might take up to an hour, LandTrendR data are exported from GEE to Google Drive (as GeoTIFF), and subsequently downloaded to a desktop system. Preferably, the data are extracted from GEE specifying the EPSG:32616, which is the signifier for UTM Zone 16N. If the EPSG is not speficied, the data will extract in geographic coordinate system (GCS WGS 1984) and will later have to be projected.
+3. From the exported GeoTIFF, the YOD band (representing the Year of Disturbance) is extracted using a standard geographic information systems (GIS) software package like ArcGIS Desktop, ArcGIS Pro, or QGIS. In ArcGIS Desktop and ArcGIS Pro, the tool used to select one raster band from a stack of bands is called **Copy Raster**, and the specific band needs to be selected.
+4. After extraction, the YOD data are converted from rater to polygon (using the **Raster to Polygon** tool in ArcGIS).
+
+*Extract changes only for known mangrove areas*
+
+5. Following the polygonization of the LandTrendR YOD data, data are clipped to the boundaries of the baseline mangrove shapefile.
+
+*Estimate polygon areas and extract polygons above a certain threshold*
+
+6. Following clipping, a new field, preferably called **Area_ha** is added to the attribute table of the shapefile.
+7. Next, the area of each change polygon is estimated using **Calculate Geometry** and selecting hectares as the unit of measurement.
+8. The data are then copied, since the change polygons will be modified.
+9. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are below 1 hectare in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
+
+*Audit changes*
+
+10. Base imagery for the years of interest (e.g., 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026) are loaded into ArcGIS. Those base images can be extracted using LandTrendR.
+11. Each and every change polygon will be zoomed to, and compared with the base images and the baseline mangrove shapefile to determine whether or not change has occurred. An annotation will be added to a new field that will be created in the shapefile to note whether or not the changes detected by LandTrendR are valid or spurious.
+
+*Adjust baseline mapped data*
+
+12. After verification of the changes, polygons verified to have changed will be incorporated into the baseline shapefile, with changes noted in the corresponding Description field.
+
+*Summarize change data*
+
+13. For statistical purposes, the areas of change will be tabulated, preferably in a Microsoft Excel spreadsheet.
+14. Using the years extracted from the YOD data, changes will be summarized for each year.
 
 ## References
 
