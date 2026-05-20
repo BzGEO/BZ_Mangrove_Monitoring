@@ -152,7 +152,7 @@ It can be considered that there are two general approaches to looking at mangrov
 <img width="430" height="383" alt="Screenshot 2026-05-20 093837" src="https://github.com/user-attachments/assets/bb3bb0c9-7aca-4e79-b57c-72e305302a66" />
 
 9. The data are then copied, since the change polygons will be modified.
-10. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are below 1 hectare in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
+10. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are **below 1 hectare** in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
 
 *Audit changes*
 
