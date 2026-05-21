@@ -129,7 +129,7 @@ It can be considered that there are two general approaches to looking at mangrov
 8. Review of the results to confirm changes in mangrove cover, including removal of spurious results.
 9. Incorporation of the change data into the baseline map.
 
-## Example workflow: Mapping mangrove change using Google Earth Engine and desktop GIS software
+## Example workflow: Mapping mangrove change using Google Earth Engine and desktop GIS
 
 *Perform change detection using GEE*
 1. LandTrendR is run in GEE over all of Belize for the period 1984-2026, using the repository linked [here](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public). A recurring annual period of 1 January to 31 May is specified to both capture images from the dry season and also to limit the analysis required to compositing 5 months of data rather than 12 months of data. LandTrendR is run using the [Normalized Burn Ratio (NBR)](https://www.usgs.gov/landsat-missions/landsat-normalized-burn-ratio) instead of other indices like the [Normalized Difference Vegetation Index (NDVI)](https://www.usgs.gov/landsat-missions/landsat-normalized-difference-vegetation-index), as research indicates that NBR is more sensitive to clear-cutting than NDVI. Standard parameters found in the [LandTrendR repository](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) are used for magnitude changes (see the *Greatest Disturbance Mapping* script linked [here](https://code.earthengine.google.com/?scriptPath=users%2Femaprlab%2Fpublic%3AScripts%2FLandTrendr%20Examples%2FLandTrendr%20Greatest%20Disturbance%20Mapping).
