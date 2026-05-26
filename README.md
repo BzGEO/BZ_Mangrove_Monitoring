@@ -176,6 +176,10 @@ It can be considered that there are two general approaches to looking at mangrov
 13. For statistical purposes, the areas of change will be tabulated, preferably in a Microsoft Excel spreadsheet.
 14. Using the years extracted from the YOD data, changes will be summarized for each year.
 
+## Acknowledgements
+
+This effort was funded through a 2026 collaboration with the Forest Department of the Government of Belize's Ministry of Sustainable Development and Climate Change, MSDCC (Professional Service Contract no. 114 of 2025/2026). This work builds off of multiple projects previously funded by (in chronological order): the Smithsonian Institution's Healthy Reefs Initiative, the World Wildlife Fund's Mesoamerican Reef (MAR) program, the Toledo Institute for Development and the Environmeng (TIDE), the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), the Coastal Zone Management Authority & Institute (CZMAI) and the Marine Climate Change Adaptation Project (MCCAP). The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), and John Pinelo (current acting Chief Forest Officer).
+
 ## References
 
 * Bunting, P., Rosenqvist, A., Lucas, R.M., Rebelo, L.M., Hilarides, L., Thomas, N., Hardy, A., Itoh, T., Shimada, M., Finlayson, C.M. 2018. The Global Mangrove Watch—A new 2010 global baseline of mangrove extent. Remote Sensing, 10 (10): 1669. https://doi.org/10.3390/rs10101669
@@ -239,10 +243,6 @@ It can be considered that there are two general approaches to looking at mangrov
 * Zisman, S.A. 1998. Sustainability or Status Quo: Elite Influence and the Political Ecology of Mangrove Exploitation in Belize. Doctoral dissertation, Department of Geography, University of Edinburgh. Edinburgh, Scotland. 277 pp. https://www.era.lib.ed.ac.uk/bitstream/handle/1842/22768/ZismanS_1998redux.pdf
 
 * Zisman, S.A. 1999. Explanatory Notes for the Zisman Mangrove Map. Notes from a presentation to the Belize Coastal Zone Management Project. Belize City, Belize. 6 pp.
-
-## Acknowledgements
-
-This effort was funded through a 2026 collaboration with the Forest Department of the Government of Belize's Ministry of Sustainable Development and Climate Change, MSDCC) (Professional Service Contract no. 114 of 2025/2026). This work builds off of multiple projects previously funded by (in chronological order): the Smithsonian Institution's Healthy Reefs Initiative, the World Wildlife Fund's Mesoamerican Reef (MAR) program, the Toledo Institute for Development and the Environmeng (TIDE), the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), the Coastal Zone Management Authority & Institute (CZMAI) and the Marine Climate Change Adaptation Project (MCCAP). The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), and John Pinelo (current acting Chief Forest Officer).
 
 ## Contact information
 
