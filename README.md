@@ -222,6 +222,8 @@ It can be considered that there are two general approaches to looking at mangrov
 
 * Kennedy, R.E., Yang, Z., Gorelick, N., Braaten, N., Cavalcante, L., Cohen, W.B., Healey, S. 2018. Implementation of the LandTrendr Algorithm on Google Earth Engine. Remote Sensing 10 (5): 691. https://doi.org/10.1016/j.rse.2010.07.008
 
+* Kjerfve, B., Oxenford, H. A., Collin, R., Pestana, I. A., Samper-Villarreal, J., Medina-Gómez, I., Cortés, J., Smith, S. R., Koltes, K., Feller, I. C., & CARICOMP Network. 2025. Two decades of CARICOMP mangrove monitoring (1992–2013) reveal variability in tree structure and productivity of Rhizophora mangle across the wider Caribbean. Environments, 12(12), Article 463. https://doi.org/10.3390/environments12120463
+
 * Morrissette, H.K. et al. 2023. Belize Blue Carbon: Establishing a national carbon stock estimate for mangrove ecosystems. Science of the Total Environment 870: 161829. https://doi.org/10.1016/j.scitotenv.2023.161829
 
 * Murray, M.R., Zisman, S.A., Furley, P.A., Munro, D.M., Gibson, J., Ratter, J., Bridgewater, S., Minty, C.D., Place, C.J. 2003. The Mangroves of Belize: Part 1. Distribution, Composition and Classification. Forest Ecology and Management 174 (1-3): 265-279. https://doi.org/10.1016/S0378-1127(02)00036-1
