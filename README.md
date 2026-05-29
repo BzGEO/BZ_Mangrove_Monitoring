@@ -35,7 +35,7 @@ As described by Zisman (1998) and Murray et al. (2003), in terms of actually map
 
 It should be noted that across various efforts, mangrove formations have either been mapped as a single class (i.e., mangroves), as the classes indicated above (with some additions, e.g., "mangroves in open water" or "mangroves in mixed forest"). To date, no efforts have been published mapping stands of individual mangrove species.
 
-<img width="631" height="726" alt="bz_mangrove_01c_types" src="https://github.com/user-attachments/assets/9985594b-d2f1-46e4-850c-00fce9cd7108" />
+<img width="631" height="726" alt="bz_mangrove_01c_types" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_1_mangrove_types.png" />
 
 **Figure 1.** Location of mangrove structural types, based on Zisman (1998).
 
@@ -77,7 +77,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **MODIS (2000-present):** Given that mangroves occupy relatively narrow fringes and given that the finest spatial resolution that MODIS data possess are 250m, it is unlikely that those data have the spatial resolution sufficient for monitoring Belize's mangroves.
     * **VIIRS (2012-present):** Given that mangroves occupy relatively narrow fringes and given that the finest spatial resolution that VIIRS data possess are 375m (often resampled to 500m), it is unlikely that VIIRS data have the spatial resolution appropriate for monitoring Belize's mangroves.
 
-<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/9af3f166-090a-4a9b-bfef-cca474791292" />
+<img width="1918" height="861" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_2_imagery_examples.png" />
 
 **Figure 2.** Comparison of various sources of multispectral imagery over Belize City, with 2019 mangrove polyline boundaries overlaid in red.
 
@@ -92,7 +92,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
     * **NISAR (2025-present):** While the NISAR mission launched in July 2025, as of the writing of this, none of NISAR's L-band imagery over Belize has yet been released publicly. It is anticipated that the data will be released in July 2026, and it is also anticipated that the imagery will appear similar to the [also L-band] ALOS PALSAR data.
     * **Sentinel-1 (2014-present):** The Copernicus programme's C-band Sentinel-1A satellite launched in April 2014, and there is imagery of Belize dating to October 2014. While Sentinel-1 imagery appear to distinguish clear-cutting of forests very well (including clear-cutting of mangroves), mangroves as such do not appear particularly distinct in Sentinel-1 imagery, likely due to the characteristics of C-band SAR data.
 
-<img width="502" height="731" alt="image" src="https://github.com/user-attachments/assets/1a770a3e-7a08-4c54-9f02-3843db18e134" />
+<img width="502" height="731" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_3_alos_palsar_mosaic_2010.png" />
 
 **Figure 3.** ALOS PALSAR dual polarization mosaic of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green).
   
@@ -114,7 +114,7 @@ It can be considered that there are two general approaches to looking at mangrov
 | Global Mangrove Watch | 52,189 | 2018 | No | No | ALOS PALSAR, Landsat | part of a global mangrove mapping effort |
 
 
-<img width="1304" height="630" alt="image" src="https://github.com/user-attachments/assets/6b94b660-f0c2-4c9a-9b3c-69cc11d933b3" />
+<img width="1304" height="630" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_4_map_comparison.png" />
 
 **Figure 4.** Comparison of mangrove cover maps of Belize, not including the Global Mangrove Watch map. The overlap between the three data sources shown is only 29,261 hectares.
 
@@ -134,11 +134,11 @@ It can be considered that there are two general approaches to looking at mangrov
 *Perform change detection using GEE*
 1. LandTrendR is run in GEE over all of Belize for the period 1984-2026, using the repository linked [here](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public). A recurring annual period of 1 January to 31 May is specified to both capture images from the dry season and also to limit the analysis required to compositing 5 months of data rather than 12 months of data. LandTrendR is run using the [Normalized Burn Ratio (NBR)](https://www.usgs.gov/landsat-missions/landsat-normalized-burn-ratio) instead of other indices like the [Normalized Difference Vegetation Index (NDVI)](https://www.usgs.gov/landsat-missions/landsat-normalized-difference-vegetation-index), as research indicates that NBR is more sensitive to clear-cutting than NDVI. Standard parameters found in the [LandTrendR repository](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) are used for magnitude changes (see the *Greatest Disturbance Mapping* script linked [here](https://code.earthengine.google.com/?scriptPath=users%2Femaprlab%2Fpublic%3AScripts%2FLandTrendr%20Examples%2FLandTrendr%20Greatest%20Disturbance%20Mapping).
 
-<img width="441" height="382" alt="image" src="https://github.com/user-attachments/assets/3b832bb6-7985-4d15-9d66-9bab6066a368" />
+<img width="441" height="382" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_5_gee_repo.png" />
 
 **Figure 5.** GEE's LandTrendR [repository](https://code.earthengine.google.com/?accept_repo=users/emaprlab/public) and the location of the *Greatest Disturbance Mapping* script.
 
-<img width="667" height="601" alt="image" src="https://github.com/user-attachments/assets/9029942f-b730-45b6-ba19-30605f22ec4d" />
+<img width="667" height="601" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_6_gee_parameters.png" />
 
 **Figure 6.** Adjusted LandTrendR parameters used for mangrove loss mapping in Belize (available [here](https://code.earthengine.google.com/a521c73035b9078de1be455fb43f5aae)).
 
@@ -157,7 +157,7 @@ It can be considered that there are two general approaches to looking at mangrov
 6. Following clipping, a new field, preferably called **Area_ha** is added to the attribute table of the shapefile.
 7. Next, the area of each change polygon is estimated using **Calculate Geometry** and selecting hectares as the unit of measurement.
 
-<img width="430" height="383" alt="Screenshot 2026-05-20 093837" src="https://github.com/user-attachments/assets/bb3bb0c9-7aca-4e79-b57c-72e305302a66" />
+<img width="430" height="383" alt="Screenshot 2026-05-20 093837" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_7_table_view_arcgis.png" />
 
 9. The data are then copied, since the change polygons will be modified.
 10. Using the copied data, the attribute table is again opened and using the query tool, an SQL query is performed to select polygons which are **below 1 hectare** in size, and those polygons are deleted. This will ensure that only changes at or above the 1 hectare threshold will be evaluated.
