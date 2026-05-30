@@ -176,10 +176,12 @@ It can be considered that there are two general approaches to looking at mangrov
 13. For statistical purposes, the areas of change will be tabulated, preferably in a Microsoft Excel spreadsheet.
 14. Using the years extracted from the YOD data, changes will be summarized for each year.
 
-<!--
+
 # Other
 * Interactive [mapping](https://earthengine-ai.projects.earthengine.app/view/satellite-embedding-classifier) of land cover using the AEF data
 
+
+<!--
 * https://code.earthengine.google.com/d11eba4b896b53c848360b35f088c40e
 -->
 
