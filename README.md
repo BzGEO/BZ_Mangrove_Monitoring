@@ -177,8 +177,10 @@ It can be considered that there are two general approaches to looking at mangrov
 14. Using the years extracted from the YOD data, changes will be summarized for each year.
 
 
+<!--
 # Other
 * Interactive [mapping](https://earthengine-ai.projects.earthengine.app/view/satellite-embedding-classifier) of land cover using the AEF data
+-->
 
 
 <!--
