@@ -1,5 +1,5 @@
 # Monitoring the Mangroves of Belize
-*Last updated: May 2026*
+*Last updated: June 2026*
 
 ## Description
 This is a [GitHub](https://github.com) repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
@@ -232,6 +232,8 @@ This effort was funded through a 2026 collaboration with the Forest Department o
 * Government of Belize (GOB). 2025. Belize's Third Nationally Determined Contribution: NDC 3.0. Ministry of Sustainable Development, Climate Change, and Solid Waste Management. Technical report to the United Nations Framework Convention on Climate Change (UNFCCC). Belmopan, Belize. 128 pp. https://unfccc.int/sites/default/files/2025-06/BELIZE%20FINAL%20NDC%203.0.pdf
 
 * Government of Belize (GOB). 2026. Belize Modified Forest Reference Level (FRL) 2000-2020. Ministry of Sustainable Development, Climate Change, and Solid Waste Management. Technical report to the United Nations Framework Convention on Climate Change (UNFCCC).  Belmopan, Belize. 196 pp. https://redd.unfccc.int/media/belize_forest_reference_level_report_2024_modified_jan_20_2026.pdf
+
+* Iwantoro, A. P., Urrego, D. H., Xie, D., Nicholas, A. P., Hapsari, K. A., Rodríguez-Rodríguez, J. A., et al. 2026. The Importance of scale in the future of mangrove blue carbon under sea-level rise. Earth's Future, 14, e2025EF006984. https://doi.org/10.1029/2025EF006984
 
 * Kennedy, R.E., Yang, Z., Cohen, W.B. 2010. Detecting trends in forest disturbance and recovery using yearly Landsat time series: 1. LandTrendr — Temporal segmentation algorithms. Remote Sensing of Environment 114: 2897-2910. https://doi.org/10.1016/j.rse.2010.07.008
 
