@@ -221,6 +221,8 @@ This effort was funded through a 2026 collaboration with the Forest Department o
 
 * Cissell, J.R., Canty, S.W.J., Steinberg, M.K., Simpson, L.T. 2021. Mapping National Mangrove Cover for Belize Using Google Earth Engine and Sentinel-2 Imagery. Applied Sciences, 11 (9), 4258. https://doi.org/10.3390/app11094258
 
+* Derouin, S. 2026. Mangroves may be losing their grip on carbon storage as sea levels rise. Eos, 107, https://doi.org/10.1029/2026EO260144
+
 * Environmental Systems Research Institute (Esri). 2016. What is orthorectified imagery? Web page. https://www.esri.com/about/newsroom/insider/what-is-orthorectified-imagery. Accessed 05/2026.
 
 * Evans, C.E., Carey, L.E., Guerra, F., Cherrington, E.A., Correa, E.S., Quintero, D. 2025. Cloud-Based Solutions for Monitoring Coastal Ecosystems and the Prioritization of Restoration Efforts Across Belize. Remote Sensing, 17(20): 3396. https://doi.org/10.3390/rs17203396
