@@ -197,7 +197,7 @@ This effort was funded through a 2026 collaboration with the Forest Department o
 * 2017-2018: the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), and
 * 2019-2020: the Coastal Zone Management Authority & Institute (CZMAI) / the Marine Climate Change Adaptation Project (MCCAP).
 
-The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), and John Pinelo (current acting Chief Forest Officer).
+The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), John Pinelo (Deputy Chief Forest Officer), and Yanira Hernandez Pop (current acting Chief Forest Officer).
 
 ## References
 
