@@ -189,7 +189,15 @@ It can be considered that there are two general approaches to looking at mangrov
 
 ## Acknowledgements
 
-This effort was funded through a 2026 collaboration with the Forest Department of the Government of Belize's Ministry of Sustainable Development and Climate Change, MSDCC (Professional Service Contract no. 114 of 2025/2026). This work builds off of multiple projects previously funded by (in chronological order): the Smithsonian Institution's Healthy Reefs Initiative, the World Wildlife Fund's Mesoamerican Reef (MAR) program, the Toledo Institute for Development and the Environmeng (TIDE), the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), the Coastal Zone Management Authority & Institute (CZMAI) and the Marine Climate Change Adaptation Project (MCCAP). The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), and John Pinelo (current acting Chief Forest Officer).
+This effort was funded through a 2026 collaboration with the Forest Department of the Government of Belize's Ministry of Sustainable Development and Climate Change, MSDCC (Professional Service Contract no. 114 of 2025/2026). This work also builds off of multiple projects previously funded by (in chronological order):
+
+* 2007-2008: the Smithsonian Institution's Healthy Reefs Initiative (HRI),
+* 2010-2011: the World Wildlife Fund's Mesoamerican Reef (MAR) program,
+* 2013: the Toledo Institute for Development and the Environmeng (TIDE),
+* 2017-2018: the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), and
+* 2019-2020: the Coastal Zone Management Authority & Institute (CZMAI) / the Marine Climate Change Adaptation Project (MCCAP).
+
+The following individuals at the Belize Forest Department were instrumental to the recent effort: Florencia Guerra (Sustainable Forest Management Program lead), Edgar Correa (Monitoring, Reporting, and Verification lead and current Ph.D. student at Kyushu University), Minerva Gonzalez (Restoration Program lead), Koren Sanchez, Karlene Williams, Anthony Morgan, Wilber Sabido (former Chief Forest Officer), and John Pinelo (current acting Chief Forest Officer).
 
 ## References
 
