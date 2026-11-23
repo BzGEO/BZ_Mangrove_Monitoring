@@ -1,5 +1,5 @@
 # Monitoring the Mangroves of Belize
-*Last updated: June 2026*
+*Last updated: November 2026*
 
 ## Description
 This is a [GitHub](https://github.com) repository of resources related to mangrove monitoring in Belize, principally using Earth observation data, and satellite data in particular. This repository will be updated as regularly as is appropriate.
