@@ -194,7 +194,7 @@ This effort was funded through a 2026 collaboration with the Forest Department o
 
 * 2007-2008: the Smithsonian Institution's Healthy Reefs Initiative (HRI),
 * 2010-2011: the World Wildlife Fund's Mesoamerican Reef (MAR) program,
-* 2013: the Toledo Institute for Development and the Environmeng (TIDE),
+* 2013: the Toledo Institute for Development and the Environment (TIDE),
 * 2017-2018: the Belize Audubon Society and the United Nations Development Programme (UNDP) / Global Environment Facility-Small Grants Programme (GEF-SGP), and
 * 2019-2020: the Coastal Zone Management Authority & Institute (CZMAI) / the Marine Climate Change Adaptation Project (MCCAP).
 
