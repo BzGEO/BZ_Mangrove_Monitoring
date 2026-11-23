@@ -23,7 +23,7 @@ As documented in Murray et al. (2003), there are three species of mangroves in B
 In Belize, there is also one noted mangrove associate:
 * **Buttonwood** (*Conocarpus erectus*).
 
-These are the same species found in other parts of the wider Caribbean region (Rull, 2023), i.e., there are no mangrove species found in other parts of the Caribbean that cannot be found in Belize.
+These are the same species found in other parts of the wider Caribbean region (Rull, 2023), i.e., there are no mangrove species found in other parts of the Caribbean that cannot be found in Belize. Another thing to note is that [to the knowledge of the authors] there are no nation-wide / wall-to-wall maps of the distributions of mangrove species across Belize, although - as elaborated below - there are maps of structural classes.
 
 ## Types of mangroves: Structural classification
 As described by Zisman (1998) and Murray et al. (2003), in terms of actually mapping mangrove communities - mixes of multiple species - those communities can largely be described regarding structural classes, as follows:
