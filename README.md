@@ -99,7 +99,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
   
   * **Thermal infrared:** 
     * **Landsat (1984-present):** While Landsat-4 (L4) launched in 1982, there are relatively few available L4 scenes available for Belize (see: https://code.earthengine.google.com/scriptPath=users%2Fservirbz%2Fbz_mrv%3A00_misc%2F_count_images%2F01_count_images_bz_belize_city). However, since then, Landsat-5, -7, -8, and -9 have provided fairly consistent thermal imaging coverage of Belize.
-    * **MODIS (2000-present):** Given that mangroves occupy relatively small fringes and given that the spatial resolution of MODIS thermal data are 1km, it is unlikely that those data have the spatial resolution sufficient for monitoring Belize's mangroves.
+    * **MODIS (2000-present):** Given that mangroves occupy relatively small fringes and given that the spatial resolution of MODIS thermal data are 1km, it is unlikely that those data have the spatial resolution sufficient for monitoring Belize's mangroves. It should also be noted that at the latest editing of this document, NASA's Terra satellite on which one of the two MODIS instruments sits, is slated for [decommissioning](https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/) on Tue. 1 December 2026.
     * **VIIRS (2012-present):** Given that mangroves occupy relatively small fringes and given that the finest spatial resolution of VIIRS thermal data is 375m, it is unlikely that VIIRS data have the spatial resolution appropriate for monitoring Belize's mangroves.
 
 ## Methods: Mapping Changes in Belize's Mangrove Cover
