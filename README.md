@@ -94,7 +94,7 @@ The following is an abridged timeline of efforts to monitor Belize's mangrove re
 
 <img width="502" height="731" alt="image" src="https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/_graphics/fig_3_alos_palsar_mosaic_2010.png" />
 
-**Figure 3.** ALOS PALSAR dual polarization mosaic of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green).
+**Figure 3.** ALOS PALSAR dual polarization [mosaic](https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/misc/bz_alos_palsar_servir_2010_11x17.pdf) of Belize for 2010, developed by CATHALAC / SERVIR-Mesoamerica in 2011. Although zoomed out, mangrove areas (shown in shades of green) do not appear particularly distinct from other forest types (also shown in shades of green). Download [here](https://github.com/BzGEO/BZ_Mangrove_Monitoring/blob/main/misc/bz_alos_palsar_servir_2010_11x17.pdf).
   
   * **Thermal infrared:** 
     * **Landsat (1984-present):** While Landsat-4 (L4) launched in 1982, there are relatively few available L4 scenes available for Belize (see: https://code.earthengine.google.com/scriptPath=users%2Fservirbz%2Fbz_mrv%3A00_misc%2F_count_images%2F01_count_images_bz_belize_city). However, since then, Landsat-5, -7, -8, and -9 have provided fairly consistent thermal imaging coverage of Belize.
